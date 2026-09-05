@@ -8,3 +8,4 @@ build/
 dist/
 *.json.bak
 .DS_Store
+examples/sample_data/
